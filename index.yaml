@@ -21,8 +21,8 @@ entries:
       name: bitnami-bot
     name: wordpress
     sources:
-    - https://github.com/bitnami/bitnami-docker-wordpress
+    - https://github.com/triqster/helm
     urls:
-    - http://127.0.0.1:8879/wordpress-0.8.16.tgz
+    - https://triqster.github.io/helm/wordpress-0.8.16.tgz
     version: 0.8.16
 generated: 2018-06-20T12:44:38.55252932+02:00
